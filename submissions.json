@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Sudha",
+    "place": "Kadupulanka",
+    "language": "Telugu",
+    "proverb": "ఆహారం మన ఆరోగ్యానికి మూలం",
+    "explanation": "ఆహారం మన ఆరోగ్యానికి ఎలా ప్రభావితం చేస్తుందో ఈ సామెత ద్వారా తెలియజేస్తారు.",
+    "category": "Moral",
+    "timestamp": "2025-07-26T15:20:06.755061"
+  },
+  {
+    "name": "Ravi",
+    "place": "Rajahmundry",
+    "language": "Telugu",
+    "proverb": "నిద్ర లేని నైతికత వృథా",
+    "explanation": "A tired mind cannot make the right decisions.",
+    "category": "Other",
+    "timestamp": "2025-07-27T11:23:23.542421"
+  },
+  {
+    "name": "Lakshmi",
+    "place": "Guntur",
+    "language": "Telugu",
+    "proverb": "ఆకలితో అన్నం ముద్ద",
+    "explanation": "ఏ పనైనా అవసరం వచ్చినప్పుడు దానివల్ల ఆనందం కలుగుతుంది.",
+    "category": "Moral",
+    "timestamp": "2025-07-27T11:24:15.779479"
+  },
+  {
+    "name": "Venu",
+    "place": "Eluru",
+    "language": "Telugu",
+    "proverb": "పొద్దు పడక ముందే వెలుతురు కోసం ఆశపడకూడదు",
+    "explanation": "Don’t expect results before making the effort.",
+    "category": "Wisdom",
+    "timestamp": "2025-07-27T11:24:56.152010"
+  },
+  {
+    "name": "Harika",
+    "place": "Tuni",
+    "language": "Telugu",
+    "proverb": "ఉత్తమది చేయకపోతే కనీసం నష్టం చేయకూడదు.",
+    "explanation": "Doing no harm is better than pretending to do good.",
+    "category": "Moral",
+    "timestamp": "2025-07-27T11:31:59.876779"
+  }
+]
